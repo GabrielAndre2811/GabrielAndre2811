@@ -9,8 +9,8 @@
 <!-- Presentation -->
 <p>
 
-  - ### **Gabriel André | Entusiasta de Tecnologia** Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
-
+  - ### **Gabriel André | Entusiasta de Tecnologia**
+  - Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
   - --- Formado em Manutenção de Redes e Hardware.
 
   - 📚 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas e no terceiro semestre de Licenciatura em Computação no Instituto Federal Tecnológico do Paraná (UTFPR).

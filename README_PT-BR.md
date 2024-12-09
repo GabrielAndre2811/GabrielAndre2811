@@ -1,31 +1,43 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">🎯 Hello Dear Friend</h1></summary>
+    <summary><h1 style="display: inline-block">🎯  **Olá, amigo! Bem-vindo ao meu GitHub!** </h1></summary>
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
    
 <!-- Presentation -->
 <p>
-Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in hardware maintenance.
-
-  - 📚 I’m currently studying Data Analitics and Computer Science at federal technological institute in Brazil
+### **Gabriel André | Entusiasta de Tecnologia** 
+  - Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
+--- Formado em Manutenção de Redes e Hardware.
+  - 📚 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas e no terceiro semestre de Licenciatura em Computação no Instituto Federal Tecnológico do Paraná (UTFPR).
      ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
 
-  - 💞️ I currently work as an educational robotics teacher
+  - 🌟 **Sobre Mim**
 
-  - 🔭 I'm looking for an opportunity to work on a big project. My dream is to one day work with a revolutionary and very profitable software.
+  - 💻 Profissão: Atualmente trabalho como professor de robótica educacional, unindo educação e tecnologia para inspirar novas gerações.
+
+  - 📊 Áreas de Interesse:
+  - Análise e Visualização de Dados.
+  - Desenvolvimento de Software.
+  - Projetos de automação com Arduino, ESP, Raspberry Pi.
+  - Inteligência Artificial e Aprendizado de Máquina.
+
+  - 🔭 Objetivo Profissional: Trabalhar em projetos inovadores com impacto global e potencial transformador.
+  - 📍 Localização: Paraná, Brasil.
+  - 🌐 Idiomas: Fluente em Inglês e Português.
+
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 27 years old, currently living in Brazil. I have fluency in English and have experience with C++, Python, Html, Css, Javascript, Data Analysis, Data visualization. I'm also a content creator of system independent since 2014, which helped me develop important skills such as creativity, desingner, quality, develop software models, community and team management.
+  - 💬 Tenho 28 anos, moro no Brasil. Tenho fluência em inglês e experiência com C++, Python, HTML, CSS, JavaScript, Análise de Dados e Automação com embarcados. Também sou criador de conteúdo no Youtube, crio dashboards para análise de dados desde 2014, o que me ajudou a desenvolver habilidades importantes foi a curiosidade e me ajudou com a criatividade, design, qualidade, desenvolvimento de modelos de software, gestão de comunidade e de equipes, além disso sou analista de qualidade, auditor interno certificado com ISO9001, ISO14001..
     
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching animes and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, assim como assistir animes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e na resolução de problemas. \o/
 </details>
 
 <!-- Links -->

@@ -107,17 +107,21 @@ Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software develo
 ---
 
 
--👋 Hello, I’m Gabriel André: A dedicated student pursuing a Bachelor's degree in Systems Analysis and Development as well as Computing Education.
--👀 Interests: Passionate about Artificial Intelligence, Programming Languages, and Game Development.
--🌱 Current Focus: Expanding my expertise by learning TypeScript and modern frameworks.
--💞️ Collaboration: Open to contributing to educational embedded systems projects using Arduino and innovative technologies.
--📫 Contact: Feel free to connect with me on Instagram @gabrielgonx.
--⚡ Fun Fact: I enjoy developing and playing my own games, combining creativity with technical skills.
--✨ Experience: Creating, testing, and improving software solutions since 2013.
--🎯 Goals: To work on impactful projects that integrate education and technology, with a focus on innovation.
--🎲 Favorite Games: Red Dead Redmption2, Assassin's Creed (SAGA), eFootball2024, and Alan Wake II.
 
--[Leia em Português](README_PT-BR.md)
+
+
+- 👋 Hello, I’m Gabriel André: A dedicated student pursuing a Bachelor's degree in Systems Analysis and Development as well as Computing Education.
+- 👀 Interests: Passionate about Artificial Intelligence, Programming Languages, and Game Development.
+- 🌱 Current Focus: Expanding my expertise by learning TypeScript and modern frameworks.
+- 💞️ Collaboration: Open to contributing to educational embedded systems projects using Arduino/Esp/Rasp and innovative technologies.
+- 📫 Contact: Feel free to connect with me on Instagram @gabrielgonx.
+- ⚡ Fun Fact: I enjoy developing and playing my own games, combining creativity with technical skills.
+- ✨ Experience: Creating, testing, and improving software solutions since 2013.
+- 📚 I'm currently learning degree in computing
+- 🎯 Goals: To work on impactful projects that integrate education and technology, with a focus on innovation.
+- 🎲 Favorite Games: Red Dead Redemption 2, Assassin's Creed, Ghost of Tsushima, and Alan Wake 2.
+
+- [Leia em Português](README_PT-BR.md)
 <!---
 
 

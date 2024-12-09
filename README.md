@@ -8,14 +8,14 @@
    
 <!-- Presentation -->
 <p>
-**Gabriel André | Technology Enthusiast**  
-  
-Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
+    ### **Gabriel André | Technology Enthusiast** 
+
+  - Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 
 --- Graduated in hardware maintenance.
 
-  - 📚 Currently in the final semester of **Systems Analysis and Development** and the third semester of **Computing Education** at the **Federal Technological Institute of Paraná (UTFPR)**. 
-     ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
+  - 📚 Currently in the final semester of **Systems Analysis and Development** and the third semester of **Computing Education** at the **Federal Technological Institute of Paraná (UTFPR)**.
+  - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
 
  ## 🌟 **About Me**  
 - 💻 **Profession**: Currently, I work as an educational robotics teacher, combining education and technology to inspire new generations.  

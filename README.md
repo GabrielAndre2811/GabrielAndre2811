@@ -10,9 +10,9 @@
 <p>
     
 
-  - ### **Gabriel André | Technology Enthusiast**
+  ### **Gabriel André | Technology Enthusiast**
 
-
+  - ***[Leia em Português]  - (README_PT-BR.md)***
 
   - Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 
@@ -70,7 +70,7 @@
 <!-- GIF -->
 <p align="left">
   
-![Panfleto para evento de tecnologia (1)](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/4a17308d-2690-42d5-8551-e80e6cf6cd65)
+![Panfleto para evento de tecnologia](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303744473-4a17308d-2690-42d5-8551-e80e6cf6cd65.gif)
 
 </p>
 
@@ -115,7 +115,7 @@
 
 
 
-- 👋 Hello, I’m Gabriel André: A dedicated student pursuing a Bachelor's degree in Systems Analysis and Development as well as Computing Education.
+- 👋 Hello, I’m Gabriel André: A dedicated student pursuing a Bachelor's degree in **Systems Analysis and Development** as well as **Computing Education**.
 - 👀 Interests: Passionate about Artificial Intelligence, Programming Languages, and Game Development.
 - 🌱 Current Focus: Expanding my expertise by learning TypeScript and modern frameworks.
 - 💞️ Collaboration: Open to contributing to educational embedded systems projects using Arduino/Esp/Rasp and innovative technologies.
@@ -126,7 +126,7 @@
 - 🎯 Goals: To work on impactful projects that integrate education and technology, with a focus on innovation.
 - 🎲 Favorite Games: Red Dead Redemption 2, Assassin's Creed, Ghost of Tsushima, and Alan Wake 2.
 
-- [Leia em Português](README_PT-BR.md)
+- ***[Leia em Português]  - (README_PT-BR.md)***
 <!---
 
 

@@ -14,7 +14,7 @@
   - --- Formado em Manutenção de Redes e Hardware.
 
   - 📚 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas e no terceiro semestre de Licenciatura em Computação no Instituto Federal Tecnológico do Paraná (UTFPR).
-  - ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
+  - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
      
 
 

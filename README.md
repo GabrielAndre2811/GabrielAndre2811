@@ -43,23 +43,22 @@ Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software develo
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GabrielAndref28?si=AkvDINt7jhF73cvY)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielgonx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andre-goncalves-164506133/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 
 <!-- GithubStats -->
 <div align="center">
-  <a href="https://github.com/Gabis28Andre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabis28Andre&layout=compact&langs_count=10&theme=dracula"/>
+  <a href="https://github.com/GabrielAndre2811">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndre2811&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 
 <!-- Portfolio -->
 ## ✨ Portfolio:
-- [Python - Data Resource Exploration](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
-- [C++ - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
-- [Java - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)
-- [Arduino - Arduino Projects](https://github.com/Gabis28Andre/Arduino-Project)
-- [Certificates that helped me learn](https://github.com/Gabis28Andre/Minhas-Certificacoes)
+- [Python - Data Resource Exploration](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
+- [C++ - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
+- [Java - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)
+- [Arduino - Arduino Projects](https://github.com/GabrielAndre2811/Arduino-Project)
+- [Certificates that helped me learn](https://github.com/GabrielAndre2811/Minhas-Certificacoes)
   
 ---
 ## 🎲 Event of Technologic Educacional

@@ -104,30 +104,24 @@ Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software develo
 
 
 
-
-
-
-
-
-
 ---
 
 
-
-
-- 👋 Hi, I’m @Gabis28Andre I'm majoring in systems analysis and development and a degree in computing
-- 👀 I’m interested in artificial intelligence, programming language, and games
-- 🌱 I’m currently learning TypeScript...
-- 💞️ I’m looking to collaborate on educational embedded projects with Arduino ...
-- 📫 How to reach me, instagram @gabrielgonx...
-- 😄 Pronouns: normal pronoun, he his ...
-- ⚡ Fun fact: I like playing my own games that I create...
-- ✨ Creating bugs since 2013
-- 📚 I'm currently learning degree in computing
-- 🎯 Goals: ...
-- 🎲 Favorite Games: GTA V, Assasin's Creed Mirage, EFootBall, Allan Wake
-
+👋 Hello, I’m Gabriel André: A dedicated student pursuing a Bachelor's degree in Systems Analysis and Development as well as Computing Education.
+👀 Interests: Passionate about Artificial Intelligence, Programming Languages, and Game Development.
+🌱 Current Focus: Expanding my expertise by learning TypeScript and modern frameworks.
+💞️ Collaboration: Open to contributing to educational embedded systems projects using Arduino and innovative technologies.
+📫 Contact: Feel free to connect with me on Instagram @gabrielgonx.
+⚡ Fun Fact: I enjoy developing and playing my own games, combining creativity with technical skills.
+✨ Experience: Creating, testing, and improving software solutions since 2013.
+🎯 Goals: To work on impactful projects that integrate education and technology, with a focus on innovation.
+🎲 Favorite Games: Red Dead Redmption2, Assassin's Creed (SAGA), eFootball2024, and Alan Wake II.
 <!---
+
+
 Gabis28Andre/Gabis28Andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+[Leia em Português](README_PT-BR.md)
+
 --->

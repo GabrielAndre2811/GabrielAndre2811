@@ -126,7 +126,7 @@
 - 🎯 Goals: To work on impactful projects that integrate education and technology, with a focus on innovation.
 - 🎲 Favorite Games: Red Dead Redemption 2, Assassin's Creed, Ghost of Tsushima, and Alan Wake 2.
 
-- ***[Leia em Português]  - (README_PT-BR.md)***
+- ***[Leia em Português](README_PT-BR.md)***
 <!---
 
 

@@ -12,7 +12,7 @@
    - ***[Leia em Português](README_PT-BR.md)***
 
      
-     ### **Gabriel André | Technology Enthusiast**
+     ## **Gabriel André | Technology Enthusiast**
 
  
 

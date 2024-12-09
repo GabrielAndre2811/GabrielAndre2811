@@ -72,7 +72,7 @@
 <!-- GIF -->
 <p align="left">
   
-![Panfleto para evento de tecnologia (1)](https://github.com/GabrielAndre2811/GabrielAndre2811/assets/143129675/4a17308d-2690-42d5-8551-e80e6cf6cd65)
+![Panfleto para evento de tecnologia (1)](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303744473-4a17308d-2690-42d5-8551-e80e6cf6cd65.gif)
 
 </p>
 

@@ -21,7 +21,7 @@ Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software develo
 - 📊 **Areas of Interest**:  
   - Data Analysis and Visualization  
   - Software Development  
-  - Educational Projects with Arduino  
+  - Educational Projects with Arduino, Esp, Rapsberry Pi  
   - Artificial Intelligence and Machine Learning  
 - 🔭 **Professional Goal**: To work on innovative projects with global impact and transformative potential.  
 - 📍 **Location**: Paraná, Brazil  

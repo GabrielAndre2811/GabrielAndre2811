@@ -37,7 +37,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim</summary>
+  <summary>👨‍💻 Mais sobre mim </summary>
 
   - 💬 Tenho 28 anos, moro no Brasil. Tenho fluência em inglês e experiência com C++, Python, HTML, CSS, JavaScript, Análise de Dados e Automação com embarcados. Também sou criador de conteúdo no Youtube, crio dashboards para análise de dados desde 2014, o que me ajudou a desenvolver habilidades importantes foi a curiosidade e me ajudou com a criatividade, design, qualidade, desenvolvimento de modelos de software, gestão de comunidade e de equipes, além disso sou analista de qualidade, auditor interno certificado com ISO9001, ISO14001..
     
@@ -54,32 +54,32 @@
 <!-- GithubStats -->
 <div align="center">
   <a href="https://github.com/Gabis28Andre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabis28Andre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabis28Andre&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndre2811&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 
 <!-- Portfolio -->
 ## ✨ Portfolio:
-- [Python - Data Resource Exploration](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
-- [C++ - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
-- [Java - Software Features](https://github.com/Gabis28Andre/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)
-- [Arduino - Arduino Projects](https://github.com/Gabis28Andre/Arduino-Project)
-- [Certificates that helped me learn](https://github.com/Gabis28Andre/Minhas-Certificacoes)
+- [Python - Data Resource Exploration](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
+- [C++ - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
+- [Java - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)
+- [Arduino - Arduino Projects](https://github.com/GabrielAndre2811/Arduino-Project)
+- [Certificates that helped me learn](https://github.com/GabrielAndre2811/Minhas-Certificacoes)
   
 ---
 ## 🎲 Evento de Tecnologia
 <!-- GIF -->
 <p align="left">
   
-![Panfleto para evento de tecnologia (1)](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/4a17308d-2690-42d5-8551-e80e6cf6cd65)
+![Panfleto para evento de tecnologia (1)](https://github.com/GabrielAndre2811/GabrielAndre2811/assets/143129675/4a17308d-2690-42d5-8551-e80e6cf6cd65)
 
 </p>
 
 ## 🔥 Skills
-<!-- Skills: Programming Languages -->
+<!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de Programação</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -90,7 +90,7 @@
     
   </div>
  
-  <!-- Skills: Tools & Frameworks -->
+  <!-- Habilidades: Ferramentas & Frameworks -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -99,7 +99,7 @@
     <img align="center" alt="Arduino" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
   </div>
   
-  <!-- Skills: Libraries -->
+  <!-- Habilidades: Bibliotecas -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">

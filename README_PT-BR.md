@@ -13,7 +13,7 @@
   - Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
   - --- Formado em Manutenção de Redes e Hardware.
 
-  - 📚 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas e no terceiro semestre de Licenciatura em Computação no Instituto Federal Tecnológico do Paraná (UTFPR).
+  - 📚 Atualmente no último semestre de **Análise e Desenvolvimento de Sistemas** e no terceiro semestre de **Licenciatura em Computação** no **Instituto Federal Tecnológico do Paraná (UTFPR)**.
   - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
      
 
@@ -21,25 +21,25 @@
     
   - 🌟 **Sobre Mim**
 
-  - 💻 Profissão: Atualmente trabalho como professor de robótica educacional, unindo educação e tecnologia para inspirar novas gerações.
+  - 💻 **Profissão**: Atualmente trabalho como professor de robótica educacional, unindo educação e tecnologia para inspirar novas gerações.
 
-  - 📊 Áreas de Interesse:
+  - 📊 **Áreas de Interesse**:
   - Análise e Visualização de Dados.
   - Desenvolvimento de Software.
   - Projetos de automação com Arduino, ESP, Raspberry Pi.
   - Inteligência Artificial e Aprendizado de Máquina.
 
-  - 🔭 Objetivo Profissional: Trabalhar em projetos inovadores com impacto global e potencial transformador.
-  - 📍 Localização: Paraná, Brasil.
-  - 🌐 Idiomas: Fluente em Inglês e Português.
+  - 🔭 **Objetivo Profissional**: Trabalhar em projetos inovadores com impacto global e potencial transformador.
+  - 📍 **Localização**: Paraná, Brasil.
+  - 🌐 **Idiomas**: Fluente em Inglês e Português.
 
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 Mais sobre mim </summary>
+  <summary>👨‍💻 **Mais sobre mim** </summary>
 
-  - 💬 Tenho 28 anos, moro no Brasil. Tenho fluência em inglês e experiência com C++, Python, HTML, CSS, JavaScript, Análise de Dados e Automação com embarcados. Também sou criador de conteúdo no Youtube, crio dashboards para análise de dados desde 2014, o que me ajudou a desenvolver habilidades importantes foi a curiosidade e me ajudou com a criatividade, design, qualidade, desenvolvimento de modelos de software, gestão de comunidade e de equipes, além disso sou analista de qualidade, auditor interno certificado com ISO9001, ISO14001..
+  - 💬 Tenho 28 anos, moro no Brasil. Tenho fluência em inglês e experiência com **C++, Python, HTML, CSS, JavaScript, Análise de Dados e Automação com embarcados**. Também sou criador de conteúdo no Youtube, crio dashboards para análise de dados desde 2014, o que me ajudou a desenvolver habilidades importantes foi a curiosidade e me ajudou com a criatividade, design, qualidade, desenvolvimento de modelos de software, gestão de comunidade e de equipes, além disso sou analista de qualidade, auditor interno certificado com ISO9001, ISO14001..
     
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, assim como assistir animes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e na resolução de problemas. \o/
@@ -92,7 +92,7 @@
  
   <!-- Habilidades: Ferramentas & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
@@ -101,7 +101,7 @@
   
   <!-- Habilidades: Bibliotecas -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>Bibliotecas</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
@@ -118,15 +118,15 @@
 
 
 
-- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, cursando Bacharelado em Análise e Desenvolvimento de Sistemas e Licenciatura em Computação.
+- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, cursando Bacharelado em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Computação**.
 - 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos.
 - 🌱 Foco Atual: Expandir minha expertise aprendendo TypeScript e frameworks modernos.
 - 💞️ Colaboração: Aberto a contribuir com projetos educacionais, jogos e sistemas embarcados usando Arduino Esp Rasp e tecnologias inovadoras.
-- 📫 Contato: Sinta-se à vontade para me encontrar no Instagram @gabrielgonx.
+- 📫 Contato: Sinta-se à vontade para me encontrar no Instagram **@gabrielgonx**.
 - ⚡ Curiosidade: Gosto de desenvolver e jogar meus próprios jogos, combinando criatividade com habilidades técnicas.
 - ✨Experiência: Criando, testando e aprimorando soluções de software desde 2013.
 - 📚 Minha frase é: Seja útil, rápido, atento antes do chefe pedir já tenha a solução.
-- 🎯 Objetivos: Trabalhar em projetos impactantes que integrem educação e tecnologia, com foco na inovação.
+- 🎯 Objetivos: Trabalhar em projetos impactantes que integrem **educação e tecnologia**, com foco na inovação.
 - 🎲 Jogos Favoritos: Red Dead Redemption 2, Assassin's Creed, Ghost of Tsushima e Alan Wake 2.
 <!---
 Gabis28Andre/Gabis28Andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

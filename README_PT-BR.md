@@ -8,12 +8,17 @@
    
 <!-- Presentation -->
 <p>
-### **Gabriel André | Entusiasta de Tecnologia** 
-  - Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
---- Formado em Manutenção de Redes e Hardware.
-  - 📚 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas e no terceiro semestre de Licenciatura em Computação no Instituto Federal Tecnológico do Paraná (UTFPR).
-     ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
 
+  - ### **Gabriel André | Entusiasta de Tecnologia** Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
+
+  - --- Formado em Manutenção de Redes e Hardware.
+
+  - 📚 Atualmente no último semestre de Análise e Desenvolvimento de Sistemas e no terceiro semestre de Licenciatura em Computação no Instituto Federal Tecnológico do Paraná (UTFPR).
+  - ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
+     
+
+
+    
   - 🌟 **Sobre Mim**
 
   - 💻 Profissão: Atualmente trabalho como professor de robótica educacional, unindo educação e tecnologia para inspirar novas gerações.

@@ -8,7 +8,7 @@
    
 <!-- Presentation -->
 <p>
-    ### **Gabriel André | Technology Enthusiast** 
+                ### **Gabriel André | Technology Enthusiast**
 
   - Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 

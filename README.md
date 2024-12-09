@@ -1,21 +1,32 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">🎯 Hello Dear Friend</h1></summary>
+    <summary><h1 style="display: inline-block"># 🎯 **Hello, Friend! Welcome to My GitHub!**  </h1></summary>
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
    
 <!-- Presentation -->
 <p>
-Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in hardware maintenance.
+  ### **Gabriel André | Technology Enthusiast**  
+Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 
-  - 📚 I’m currently studying Data Analitics and Computer Science at federal technological institute in Brazil
+--- Graduated in hardware maintenance.
+
+  - 📚 Currently in the final semester of **Systems Analysis and Development** and the third semester of **Computing Education** at the **Federal Technological Institute of Paraná (UTFPR)**. 
      ![UTFPR](https://github.com/Gabis28Andre/Gabis28Andre/assets/143129675/957d8609-1c2d-4c65-8d63-fe3304011b77)
 
-  - 💞️ I currently work as an educational robotics teacher
-
-  - 🔭 I'm looking for an opportunity to work on a big project. My dream is to one day work with a revolutionary and very profitable software.
+ ## 🌟 **About Me**  
+- 💻 **Profession**: Currently, I work as an educational robotics teacher, combining education and technology to inspire new generations.  
+- 📊 **Areas of Interest**:  
+  - Data Analysis and Visualization  
+  - Software Development  
+  - Educational Projects with Arduino  
+  - Artificial Intelligence and Machine Learning  
+- 🔭 **Professional Goal**: To work on innovative projects with global impact and transformative potential.  
+- 📍 **Location**: Paraná, Brazil  
+- 🌐 **Languages**: Fluent in English and Portuguese.
+  
 </p>
 
 <!-- Dropdown -->
@@ -51,7 +62,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 - [Certificates that helped me learn](https://github.com/Gabis28Andre/Minhas-Certificacoes)
   
 ---
-## 🎲 Evento de Tecnologia
+## 🎲 Event of Technologic Educacional
 <!-- GIF -->
 <p align="left">
   
@@ -59,7 +70,7 @@ Hi 👋, I'm Gabriel! A passionate Data Analitics professional and graduated in 
 
 </p>
 
-## 🔥 Skills
+## 🔥🚀 **Technical Skills** 
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>

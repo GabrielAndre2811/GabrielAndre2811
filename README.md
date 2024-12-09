@@ -12,7 +12,7 @@
 
   ### **Gabriel André | Technology Enthusiast**
 
-  - ***[Leia em Português]  - (README_PT-BR.md)***
+  - ***[Leia em Português](README_PT-BR.md)***
 
   - Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 

@@ -57,7 +57,7 @@ Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software develo
 - [Python - Data Resource Exploration](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
 - [C++ - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
 - [Java - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)
-- [Arduino - Arduino Projects](https://github.com/GabrielAndre2811/Arduino-Project)
+- [Arduino - Arduino Projects](https://github.com/GabrielAndre2811/Arduino-Projects)
 - [Certificates that helped me learn](https://github.com/GabrielAndre2811/Minhas-Certificacoes)
   
 ---

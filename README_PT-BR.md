@@ -76,7 +76,7 @@
 
 </p>
 
-## 🔥 Skills
+## 🔥 Habilidades
 <!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
     <h3>Linguagens de Programação</h3>
@@ -118,18 +118,16 @@
 
 
 
-- 👋 Hi, I’m @Gabis28Andre I'm majoring in systems analysis and development and a degree in computing
-- 👀 I’m interested in artificial intelligence, programming language, and games
-- 🌱 I’m currently learning TypeScript...
-- 💞️ I’m looking to collaborate on educational embedded projects with Arduino ...
-- 📫 How to reach me, instagram @gabrielgonx...
-- 😄 Pronouns: normal pronoun, he his ...
-- ⚡ Fun fact: I like playing my own games that I create...
-- ✨ Creating bugs since 2013
-- 📚 I'm currently learning degree in computing
-- 🎯 Goals: ...
-- 🎲 Favorite Games: GTA V, Assasin's Creed Mirage, EFootBall, Allan Wake
-
+- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, cursando Bacharelado em Análise e Desenvolvimento de Sistemas e Licenciatura em Computação.
+- 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos.
+- 🌱 Foco Atual: Expandir minha expertise aprendendo TypeScript e frameworks modernos.
+- 💞️ Colaboração: Aberto a contribuir com projetos educacionais, jogos e sistemas embarcados usando Arduino Esp Rasp e tecnologias inovadoras.
+- 📫 Contato: Sinta-se à vontade para me encontrar no Instagram @gabrielgonx.
+- ⚡ Curiosidade: Gosto de desenvolver e jogar meus próprios jogos, combinando criatividade com habilidades técnicas.
+- ✨Experiência: Criando, testando e aprimorando soluções de software desde 2013.
+- 📚 Minha frase é: Seja útil, rápido, atento antes do chefe pedir já tenha a solução.
+- 🎯 Objetivos: Trabalhar em projetos impactantes que integrem educação e tecnologia, com foco na inovação.
+- 🎲 Jogos Favoritos: Red Dead Redemption 2, Assassin's Creed, Ghost of Tsushima e Alan Wake 2.
 <!---
 Gabis28Andre/Gabis28Andre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

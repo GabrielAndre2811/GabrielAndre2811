@@ -28,7 +28,7 @@
 - 📊 **Areas of Interest**:  
   - Data Analysis and Visualization  
   - Software Development  
-  - Educational Projects with Arduino, Esp, Rapsberry Pi  
+  - IOT Projects with Arduino, Esp, Rapsberry Pi  
   - Artificial Intelligence and Machine Learning  
 - 🔭 **Professional Goal**: To work on innovative projects with global impact and transformative potential.  
 - 📍 **Location**: Paraná, Brazil  

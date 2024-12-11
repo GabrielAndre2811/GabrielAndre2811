@@ -47,7 +47,7 @@
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GabrielAndref28?si=AkvDINt7jhF73cvY)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielgonx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielandregonx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andre-goncalves-164506133/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 
@@ -123,7 +123,7 @@
 - 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos.
 - 🌱 Foco Atual: Expandir minha expertise aprendendo TypeScript e frameworks modernos.
 - 💞️ Colaboração: Aberto a contribuir com projetos educacionais, jogos e sistemas embarcados usando Arduino Esp Rasp e tecnologias inovadoras.
-- 📫 Contato: Sinta-se à vontade para me encontrar no Instagram **@gabrielgonx**.
+- 📫 Contato: Sinta-se à vontade para me encontrar no Instagram **@gabrielandregonx**.
 - ⚡ Curiosidade: Gosto de desenvolver e jogar meus próprios jogos, combinando criatividade com habilidades técnicas.
 - ✨Experiência: Criando, testando e aprimorando soluções de software desde 2013.
 - 📚 Minha frase é: Seja útil, rápido, atento antes do chefe pedir já tenha a solução.

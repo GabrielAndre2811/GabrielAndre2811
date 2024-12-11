@@ -61,7 +61,7 @@
 
 <!-- Portfolio -->
 ## ✨ Portfolio:
-- [Projetos - Programa Organizador de PDF](https://github.com/GabrielAndre2811/Projeto-Documento-Relacionais/tree/main)
+- [Projects - PDF Organizer Program](https://github.com/GabrielAndre2811/Projeto-Documento-Relacionais/tree/main)
 - [Python - Data Resource Exploration](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Python)
 - [C++ - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/C%2B%2B)
 - [Java - Software Features](https://github.com/GabrielAndre2811/Codigos-do-curso-ADS/tree/main/C%C3%B3digos/Java)

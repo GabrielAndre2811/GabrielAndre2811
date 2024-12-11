@@ -48,7 +48,7 @@
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@GabrielAndref28?si=AkvDINt7jhF73cvY)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielgonx/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielandregonx/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andre-goncalves-164506133/)
 
 <!-- GithubStats -->
@@ -122,7 +122,7 @@
 - 👀 Interests: Passionate about Artificial Intelligence, Programming Languages, and Game Development.
 - 🌱 Current Focus: Expanding my expertise by learning TypeScript and modern frameworks.
 - 💞️ Collaboration: Open to contributing to educational embedded systems projects using Arduino/Esp/Rasp and innovative technologies.
-- 📫 Contact: Feel free to connect with me on Instagram @gabrielgonx.
+- 📫 Contact: Feel free to connect with me on Instagram @gabrielandregonx.
 - ⚡ Fun Fact: I enjoy developing and playing my own games, combining creativity with technical skills.
 - ✨ Experience: Creating, testing, and improving software solutions since 2013.
 - 📚 I'm currently learning degree in computing

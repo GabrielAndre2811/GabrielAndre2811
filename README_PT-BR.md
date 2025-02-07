@@ -118,7 +118,7 @@
 
 
 
-- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, cursando Bacharelado em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Computação**.
+- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, cursando Tecnólogo em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Computação**.
 - 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos.
 - 🌱 Foco Atual: Expandir minha expertise aprendendo TypeScript e frameworks modernos.
 - 💞️ Colaboração: Aberto a contribuir com projetos educacionais, jogos e sistemas embarcados usando Arduino Esp Rasp e tecnologias inovadoras.

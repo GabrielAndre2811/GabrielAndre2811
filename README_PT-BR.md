@@ -21,12 +21,13 @@
     
   - 🌟 **Sobre Mim**
 
-  - 💻 **Profissão**: Atualmente trabalho como professor de robótica educacional, unindo educação e tecnologia para inspirar novas gerações.
+  - 💻 **Profissão**: Atualmente trabalho como professor de Ciência de Dados, Programação Back-End e Banco de Dados em curso técnico, sou coordenador dos Cursos Google, Professor de Robótica Educacional,
+Coordenador de Curso Técnico de Desenvolvimento de Sistemas e Embaixador do Programação Paraná no Núcleo Regional de Educação em Wenceslau Braz, unindo educação e tecnologia para inspirar novas gerações.
 
   - 📊 **Áreas de Interesse**:
-  - Análise e Visualização de Dados.
+  - Cência de Dados.
   - Desenvolvimento de Software.
-  - Projetos de automação com Arduino, ESP, Raspberry Pi.
+  - Robótica.
   - Inteligência Artificial e Aprendizado de Máquina.
 
   - 🔭 **Objetivo Profissional**: Trabalhar em projetos inovadores com impacto global e potencial transformador.

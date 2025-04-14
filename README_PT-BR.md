@@ -11,7 +11,7 @@
 
   - ### **Gabriel André | Entusiasta de Tecnologia**
   - Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
-  - --- Formado em Manutenção de Redes e Hardware.
+  - --- Formado em Manutenção de Redes e Hardware, Analista e Desenvolvedor de Software, Licenciado em Computação, e atualmente coordenador de curso técnico, e coordenador de cursos Google.
 
   - 📚 Atualmente no último semestre de **Análise e Desenvolvimento de Sistemas** e no terceiro semestre de **Licenciatura em Computação** no **Instituto Federal Tecnológico do Paraná (UTFPR)**.
   - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
@@ -39,7 +39,7 @@
 <details>
   <summary>👨‍💻 **Mais sobre mim** </summary>
 
-  - 💬 Tenho 28 anos, moro no Brasil. Tenho fluência em inglês e experiência com **C++, Python, HTML, CSS, JavaScript, Análise de Dados e Automação com embarcados**. Também sou criador de conteúdo no Youtube, crio dashboards para análise de dados desde 2014, o que me ajudou a desenvolver habilidades importantes foi a curiosidade e me ajudou com a criatividade, design, qualidade, desenvolvimento de modelos de software, gestão de comunidade e de equipes, além disso sou analista de qualidade, auditor interno certificado com ISO9001, ISO14001..
+  - 💬 Tenho 28 anos, moro no Brasil. Tenho fluência em inglês e experiência com **C++, Python, HTML, CSS, JavaScript, Java, Análise de Dados e e Desenvolvimento de Ferramentas Educacionais**. Também sou criador de conteúdo no Youtube, crio dashboards para análise de dados desde 2014, o que me ajudou a desenvolver habilidades importantes foi a curiosidade e me ajudou com a criatividade, design, qualidade, desenvolvimento de modelos de software, gestão de comunidade e de equipes, além disso sou analista de qualidade, auditor interno certificado com ISO9001, ISO14001, graduado em Analise e Desenvolvimento de Sistemas e Licenciatura em Computação..
     
 
   - ⚡ Gosto de ler, seja um bom livro, mangá ou quadrinhos, assim como assistir animes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais refinada das coisas e na resolução de problemas. \o/
@@ -118,7 +118,7 @@
 
 
 
-- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, cursando Tecnólogo em **Análise e Desenvolvimento de Sistemas** e **Licenciatura em Computação**.
+- 👋 Olá, eu sou Gabriel André: Um estudante dedicado, sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** e Licenciado **Licenciatura em Computação**.
 - 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos.
 - 🌱 Foco Atual: Expandir minha expertise aprendendo TypeScript e frameworks modernos.
 - 💞️ Colaboração: Aberto a contribuir com projetos educacionais, jogos e sistemas embarcados usando Arduino Esp Rasp e tecnologias inovadoras.

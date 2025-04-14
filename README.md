@@ -18,23 +18,18 @@
 
   - Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 
---- **Graduated in Hardware Maintenance**.
-
-  - 📚 Currently in the final semester of **Systems Analysis and Development** and the third semester of **Computing Education** at the **Federal Technological Institute of Paraná (UTFPR)**.
+--- 📚 **Graduated in Network and Hardware Maintenance, Software Analyst and Developer, Graduated in Computing **Computing Education** at the **Federal Technological Institute of Paraná (UTFPR)**, 
+and currently coordinator of technical course, and coordinator of Google courses.**.
+ 
   - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
 
  ## 🌟 **About Me**  
-- 💻 **Profession**:I currently work as a teacher of Data Science, Back-End Programming and Database in a technical course, I am coordinator of Google Courses, Professor of Educational Robotics, 
-Coordinator of Technical Course of Systems Development and Ambassador of Programming Paraná at the Regional Education Center in Wenceslau Braz, 
-uniting education and technology to inspire new generations.
-
-Artificial Intelligence and Machine Learning.
+- 💻 **Profession**: Currently, I work as an educational robotics teacher, combining education and technology to inspire new generations.  
 - 📊 **Areas of Interest**:  
-  - Data Analysis and Visualization, Data Intelligence.
+  - Data Analysis and Visualization  
   - Software Development  
-  - Robotics, IOT Projects with Arduino, Esp, Rapsberry Pi  
-  - Artificial Intelligence and Machine Learning
-  - 
+  - IOT Projects with Arduino, Esp, Rapsberry Pi  
+  - Artificial Intelligence and Machine Learning  
 - 🔭 **Professional Goal**: To work on innovative projects with global impact and transformative potential.  
 - 📍 **Location**: Paraná, Brazil  
 - 🌐 **Languages**: Fluent in English and Portuguese.

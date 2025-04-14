@@ -24,8 +24,10 @@ and currently coordinator of technical course, and coordinator of Google courses
   - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
 
  ## 🌟 **About Me**  
-- 💻 **Profession**: Currently, I work as an educational robotics teacher, combining education and technology to inspire new generations.  
-- 📊 **Areas of Interest**:  
+- 💻 **Profession**: I currently work as a teacher of Data Science, Back-End Programming and Database in a technical course, I am coordinator of Google Courses, 
+Professor of Educational Robotics, Coordinator of Technical Course of Systems Development and Ambassador of Programming Paraná at the Regional Education Center in Wenceslau Braz, 
+uniting education and technology to inspire new generations.
+
   - Data Analysis and Visualization  
   - Software Development  
   - IOT Projects with Arduino, Esp, Rapsberry Pi  

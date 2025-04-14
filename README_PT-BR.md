@@ -11,7 +11,7 @@
 
   - ### **Gabriel André | Entusiasta de Tecnologia**
   - Oi 👋, sou o Gabriel! Apaixonado por tecnologia, ensino e desenvolvimento de software, busco contribuir com projetos desafiadores que impactem positivamente o mundo.
-  - --- Formado em Manutenção de Redes e Hardware, Analista e Desenvolvedor de Software, Licenciado em Computação, e atualmente coordenador de curso técnico, e coordenador de cursos Google.
+  - --- Formado em Manutenção de Redes e Computadores, Analista e Desenvolvedor de Software, Licenciado em Computação, e atualmente coordenador de curso técnico, e coordenador de cursos Google.
 
   - 📚 Atualmente no último semestre de **Análise e Desenvolvimento de Sistemas** e no terceiro semestre de **Licenciatura em Computação** no **Instituto Federal Tecnológico do Paraná (UTFPR)**.
   - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)

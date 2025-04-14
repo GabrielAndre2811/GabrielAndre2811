@@ -126,7 +126,7 @@ Coordenador de Curso Técnico de Desenvolvimento de Sistemas e Embaixador do Pro
 - 📫 Contato: Sinta-se à vontade para me encontrar no Instagram **@gabrielandregonx**.
 - ⚡ Curiosidade: Gosto de desenvolver e jogar meus próprios jogos, combinando criatividade com habilidades técnicas.
 - ✨Experiência: Criando, testando e aprimorando soluções de software desde 2013.
-- 📚 Minha frase é: Seja útil, rápido, atento antes do chefe pedir já tenha a solução.
+- 📚 Minha frase é: Seja útil, rápido, atento e eficiente.
 - 🎯 Objetivos: Trabalhar em projetos impactantes que integrem **educação e tecnologia**, com foco na inovação.
 - 🎲 Jogos Favoritos: Red Dead Redemption 2, Assassin's Creed, Ghost of Tsushima e Alan Wake 2.
 <!---

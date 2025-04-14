@@ -120,7 +120,7 @@ Coordenador de Curso Técnico de Desenvolvimento de Sistemas e Embaixador do Pro
 
 
 - 👋 Olá, eu sou Gabriel André: Um estudante dedicado, sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** e Licenciado **Licenciatura em Computação**.
-- 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos.
+- 👀 Interesses: Ótimas habilidades em Inteligência Artificial, Linguagens de Programação e Desenvolvimento de Jogos educacionais.
 - 🌱 Foco Atual: Expandir minha expertise aprendendo TypeScript e frameworks modernos.
 - 💞️ Colaboração: Aberto a contribuir com projetos educacionais, jogos e sistemas embarcados usando Arduino Esp Rasp e tecnologias inovadoras.
 - 📫 Contato: Sinta-se à vontade para me encontrar no Instagram **@gabrielandregonx**.

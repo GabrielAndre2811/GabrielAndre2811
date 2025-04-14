@@ -19,7 +19,7 @@
   - Hi 👋, I'm Gabriel! Passionate about technology, teaching, and software development, I strive to contribute to challenging projects that positively impact the world.
 
 --- 📚 **Graduated in Network and Hardware Maintenance, Software Analyst and Developer, Graduated in Computing **Computing Education** at the **Federal Technological Institute of Paraná (UTFPR)**, 
-and currently coordinator of technical course, and coordinator of Google courses.**.
+and currently coordinator of technical course, and coordinator of Google courses for system educational.**.
  
   - ![UTFPR](https://github.com/GabrielAndre2811/GabrielAndre2811/blob/main/303429432-957d8609-1c2d-4c65-8d63-fe3304011b77.png)
 

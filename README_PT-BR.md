@@ -53,9 +53,10 @@ Coordenador de Curso Técnico de Desenvolvimento de Sistemas e Embaixador do Pro
 
 <!-- GithubStats -->
 <div align="center">
-  <a href="https://github.com/Gabis28Andre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndre2811&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&layout=compact&langs_count=10&theme=dracula"/>
+  <a href="https://github.com/GabrielAndre2811">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndre2811&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&layout=pie&hide=java,python,c%2B%2B,Hack,Roff&show_icons=true&theme=radical"/>
 </div>
 
 

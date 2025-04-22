@@ -58,6 +58,7 @@ uniting education and technology to inspire new generations.
   <a href="https://github.com/GabrielAndre2811">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielAndre2811&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&layout=compact&langs_count=10&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAndre2811&hide_progress=true"/>
 </div>
 
 
